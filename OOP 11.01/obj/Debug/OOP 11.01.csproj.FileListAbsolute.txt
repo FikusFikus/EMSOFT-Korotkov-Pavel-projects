@@ -1,0 +1,7 @@
+D:\Projects\Console\OOP 11.01\OOP 11.01\bin\Debug\OOP 11.01.exe.config
+D:\Projects\Console\OOP 11.01\OOP 11.01\bin\Debug\OOP 11.01.exe
+D:\Projects\Console\OOP 11.01\OOP 11.01\bin\Debug\OOP 11.01.pdb
+D:\Projects\Console\OOP 11.01\OOP 11.01\obj\Debug\OOP 11.01.csprojAssemblyReference.cache
+D:\Projects\Console\OOP 11.01\OOP 11.01\obj\Debug\OOP 11.01.csproj.CoreCompileInputs.cache
+D:\Projects\Console\OOP 11.01\OOP 11.01\obj\Debug\OOP 11.01.exe
+D:\Projects\Console\OOP 11.01\OOP 11.01\obj\Debug\OOP 11.01.pdb
